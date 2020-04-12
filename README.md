@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am following a tutorial called "How To Set Up a Ruby on Rails Project with a React Frontend" by "Chuks Opia". In his Introduction sections he says something that I completely agree:
 
-Things you may want to cover:
+<< 
+ With the frontend of the web moving toward frameworks that are separate from the server-side code, combining the elegance of Rails with the efficiency of React will let you build powerful and modern applications informed by current trends. By using React to render components from within a Rails view instead of the Rails template engine, your application will benefit from the latest advancements in JavaScript and front-end development while still leveraging the expressiveness of Ruby on Rails.
+>>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
